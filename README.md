@@ -1,0 +1,2 @@
+# Earthquake_Mapping
+GeoJSON
